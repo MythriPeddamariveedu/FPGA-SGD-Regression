@@ -1,0 +1,7 @@
+parameter signed [31:0] W1 = 32'sd-256;
+parameter signed [31:0] W2 = 32'sd14039;
+parameter signed [31:0] W3 = 32'sd-7233;
+parameter signed [31:0] W4 = 32'sd-333;
+parameter signed [31:0] W5 = 32'sd-3816;
+parameter signed [31:0] W6 = 32'sd-1778;
+parameter signed [63:0] B = 64'sd45549823;
