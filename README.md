@@ -160,9 +160,9 @@ Example Output:
 
 ## FPGA Resource Utilization
 
-### Pre-Synthesis
+### Post-Synthesis
 
-![Pre Synthesis](Results/Pre-Synthesis%20Utilization.png)
+![Post Synthesis](Results/Post%20Synthesis%20Utilization.png)
 
 ### Post-Implementation
 
