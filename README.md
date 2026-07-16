@@ -47,7 +47,7 @@ The system consists of:
 
 ### Top-Level Block Diagram
 
-![RTL Schematic](Results/RTL_Schematic.png)
+![RTL Schematic](Results/RTL%20Schematic.png)
 
 ---
 
@@ -146,7 +146,7 @@ This approach:
 
 Prediction results obtained from Vivado simulation:
 
-![Prediction Results](Results/Prediction_vs_Actual.png)
+![Prediction Results](Results/Smulation%20Results.png)
 
 Example Output:
 
@@ -160,13 +160,13 @@ Example Output:
 
 ## FPGA Resource Utilization
 
-### Post-Synthesis
+### Pre-Synthesis
 
-![Post Synthesis](Results/Post_Synthesis_Utilization.png)
+![Pre Synthesis](Results/Pre-Synthesis%20Utilization.png)
 
 ### Post-Implementation
 
-![Post Implementation](Results/Post_Implementation_Utilization.png)
+![Post Implementation](Results/Post%20Implementation%20Utilization.png)
 
 Observed Utilization:
 
